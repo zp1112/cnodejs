@@ -1,0 +1,9 @@
+static/
+bower_components/
+node_modules/
+demo/
+
+.DS_Store
+nohup.out
+dump.rdb
+*.log
