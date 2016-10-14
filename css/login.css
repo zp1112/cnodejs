@@ -1,0 +1,42 @@
+a{
+  text-decoration: none;
+}
+.logo{
+  width: 200px;
+  height: auto;
+  margin: 50px auto;
+}
+.login{
+  width: 300px;
+  height: auto;
+  margin: 50px auto;
+  background: #4f5555;
+}
+.label{
+  display: block;
+  color: #0ef;
+  text-align: center;
+  background: #3e4145;
+  padding: 10px;
+}
+.label a{
+  color: #0ef;
+}
+.login-form{
+  text-align: center;
+  padding: 20px;
+}
+.accessToken{
+  width: 80%;
+  border: none;
+  height: 28px;
+  background: #464547;
+}
+.loginButton{
+  display: block;
+  width: 80%;
+  height: 25px;
+  background: #f15b6c;
+  border: none;
+  margin: 10px auto;
+}
